@@ -28,6 +28,11 @@
       "StackName": "amplify-testbackend-qa-210334",
       "StackId": "arn:aws:cloudformation:ap-south-1:926952234663:stack/amplify-testbackend-qa-210334/4895eb30-9fbe-11ec-9dad-064d6d05dfac",
       "AmplifyAppId": "d2x3tlge6lj3sz"
+    },
+    "categories": {
+      "auth": {
+        "testbackend1cf0dba6": {}
+      }
     }
   },
   "uat": {
@@ -41,6 +46,11 @@
       "StackName": "amplify-testbackend-uat-210508",
       "StackId": "arn:aws:cloudformation:ap-south-1:926952234663:stack/amplify-testbackend-uat-210508/8088bbd0-9fbe-11ec-bd95-0af00bbc7680",
       "AmplifyAppId": "d2x3tlge6lj3sz"
+    },
+    "categories": {
+      "auth": {
+        "testbackend1cf0dba6": {}
+      }
     }
   },
   "prod": {
@@ -54,6 +64,11 @@
       "StackName": "amplify-testbackend-prod-211053",
       "StackId": "arn:aws:cloudformation:ap-south-1:926952234663:stack/amplify-testbackend-prod-211053/4df9f700-9fbf-11ec-a468-0a3a41a64614",
       "AmplifyAppId": "d2x3tlge6lj3sz"
+    },
+    "categories": {
+      "auth": {
+        "testbackend1cf0dba6": {}
+      }
     }
   }
 }
